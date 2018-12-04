@@ -1,0 +1,4 @@
+Gates;jacques;28/10/1955
+Torvalds;Linux;28/12/1969
+Wozniak;Steve;11/08/1950
+Toto;Inconnu;01/01/2000
